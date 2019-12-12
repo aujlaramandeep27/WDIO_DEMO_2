@@ -1,3 +1,5 @@
 /node_modules
 /.vscode
 package-lock.json
+_results_
+allure-results
